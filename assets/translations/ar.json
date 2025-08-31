@@ -1,0 +1,27 @@
+{
+  "account_management": "إدارة الحساب",
+  "my_account": "حسابي",
+  "my_orders": "طلباتي",
+  "change_city": "تغيير المدينة",
+  "change_language": "تغيير اللغة",
+  "logout": "تسجيل الخروج",
+  
+  "delete_account": "حذف الحساب",
+ 
+  "select_city": "اختر المدينة", 
+  "select_language": "اختر اللغة", 
+  "english": "الإنجليزية", 
+  "arabic": "العربية", 
+  "confirm_logout": "تأكيد تسجيل الخروج", 
+  "logout_confirm_msg": "هل أنت متأكد أنك تريد تسجيل الخروج؟", 
+  "delete_account_msg": "هل أنت متأكد أنك تريد حذف حسابك؟ لن يمكن استرداد البيانات بعد الحذف.", 
+  "city_changed": "تم تغيير المدينة إلى {0}", 
+  "language_changed_to_en": "تم تغيير اللغة إلى الإنجليزية", 
+  "language_changed_to_ar": "تم تغيير اللغة إلى العربية", 
+  "account_deleted": "تم حذف حسابك بنجاح.", 
+  "current_city": "المدينة الحالية", 
+  "cancel": "إلغاء", 
+  "ok": "موافق", 
+  "not_logged_in": "أنت غير مسجل دخول", 
+  "failed_to_delete_account": "فشل في حذف الحساب"
+}
