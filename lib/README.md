@@ -21,7 +21,6 @@ A full-featured mobile app for sending **anything** — food, packages, grocerie
 
 ## 📲 Try the App
 🔽 [Download APK](https://github.com/ebrahimabdullrazzaq-max/wasel-delivery-app/releases/latest)
-
 ## 📂 How to Run Locally
 1. Clone:
    ```bash
